@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SuperHero Quiz",
+    "live": "https://shinobiseb.github.io/seir_penguin_project_1/",
+    "git": "https://github.com/shinobiseb/seir_penguin_project_1",
+    "image": "http://www.imgur.com/pictureofproject.png"
+  },
+  {
+    "name": "Playlist Maker",
+    "live": "https://ss-penguin-p2.herokuapp.com/playlist",
+    "git": "https://github.com/shinobiseb/Penguin_Project2",
+    "image": "http://www.imgur.com/pictureofproject.png"
+  }
+]
